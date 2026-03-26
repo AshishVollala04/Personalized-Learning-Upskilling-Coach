@@ -1,0 +1,35 @@
+Target Role: Full Stack Web Developer
+
+Company Type: Startup / Product company
+
+Job Description:
+We are hiring a Full Stack Developer to build and maintain modern web applications. You will work on both frontend and backend, delivering end-to-end features.
+
+Required Skills:
+- JavaScript/TypeScript (advanced) — primary language for full stack
+- React.js or Angular (frontend framework) — building interactive UIs
+- Node.js with Express.js (backend) — server-side development
+- SQL and NoSQL databases (PostgreSQL, MongoDB) — data persistence
+- REST API design and development — building and consuming APIs
+- Git version control — collaborative development
+- HTML5/CSS3 and responsive design — modern web layouts
+
+Preferred Skills:
+- Docker basics — containerized development
+- Cloud deployment (AWS/Azure/GCP) — deploying to production
+- Testing frameworks (Jest, Cypress, React Testing Library)
+- GraphQL — modern API design
+- Redis caching — performance optimization
+- TypeORM or Prisma — ORM for database interactions
+- WebSocket / real-time communication
+
+Responsibilities:
+- Build responsive, user-friendly frontend interfaces
+- Develop scalable backend APIs and services
+- Design and optimize database schemas
+- Write clean, tested, maintainable code
+- Participate in code reviews and agile sprints
+- Deploy and monitor applications in cloud environments
+
+Experience Required: 0-2 years
+Education: B.Tech/B.E. in CS/IT or equivalent

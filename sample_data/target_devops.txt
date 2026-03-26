@@ -1,0 +1,35 @@
+Target Role: Cloud DevOps Engineer
+
+Company Type: Mid-size IT services / Product company
+
+Job Description:
+We are looking for a Cloud DevOps Engineer to help build, deploy, and maintain cloud infrastructure and CI/CD pipelines for our products.
+
+Required Skills:
+- Python or Bash scripting (advanced) — for automation and tooling
+- AWS services (EC2, S3, Lambda, IAM, VPC, CloudFormation) — core cloud skills
+- Docker and container orchestration — containerized deployments
+- Kubernetes (deployment, services, scaling, Helm) — container management
+- CI/CD pipelines (Jenkins, GitHub Actions, or GitLab CI) — automated builds and deploys
+- Infrastructure as Code (Terraform or CloudFormation) — infrastructure automation
+- Linux system administration — server management, shell scripting
+- Networking fundamentals — DNS, load balancing, firewalls, VPNs
+
+Preferred Skills:
+- Monitoring and observability (Prometheus, Grafana, CloudWatch, ELK Stack)
+- Configuration management (Ansible or Chef)
+- Security best practices (IAM policies, secrets management, vulnerability scanning)
+- Agile/Scrum methodology
+- Service mesh (Istio) and API gateways
+
+Responsibilities:
+- Design and manage cloud infrastructure on AWS
+- Build and maintain CI/CD pipelines for multiple services
+- Containerize applications and manage Kubernetes clusters
+- Implement Infrastructure as Code practices
+- Monitor system health and respond to incidents
+- Collaborate with development teams on deployment strategies
+- Ensure security and compliance of cloud resources
+
+Experience Required: 1-3 years in software development or IT operations
+Education: B.Tech/B.E. in CS/IT or equivalent

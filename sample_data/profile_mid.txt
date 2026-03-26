@@ -1,0 +1,34 @@
+Name: Rahul Verma
+Current Role: Junior Software Developer at TechCorp
+Experience: 2 years in backend development
+
+Skills:
+- Python (intermediate) — daily use for backend services
+- Java (basic) — used in first 6 months at job
+- REST API development — built 5+ APIs using Flask/FastAPI
+- PostgreSQL — intermediate, writes complex queries
+- Git — comfortable with branching, merging, PRs
+- Docker (basic) — can write Dockerfiles, run containers
+- Linux — basic command line usage
+- HTML/CSS (basic)
+
+Education:
+- B.Tech in Information Technology from ABC College (2023), CGPA: 8.2
+
+Certifications:
+- AWS Cloud Practitioner (2024)
+
+Work Experience:
+- Built internal REST API for inventory management system
+- Contributed to microservices migration from monolith
+- Set up basic CI pipeline using GitHub Actions
+- Wrote unit tests using pytest for backend services
+
+Projects:
+- Personal blog using Django + PostgreSQL
+- Expense tracker CLI tool in Python
+
+Interests:
+- System design and architecture
+- Cloud infrastructure and DevOps
+- Building scalable systems
