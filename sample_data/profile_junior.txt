@@ -1,0 +1,32 @@
+Name: Priya Sharma
+Current Role: Fresh Graduate / Intern
+Experience: 0 years (just completed B.Tech in Computer Science)
+
+Skills:
+- Python (basic) — completed coursework, built 2 mini projects
+- HTML/CSS — can build static web pages
+- SQL (basic) — knows SELECT, JOIN, GROUP BY
+- Git (basic) — used for college projects
+- C programming — learned in first year
+
+Education:
+- B.Tech in Computer Science from XYZ University (2025), CGPA: 7.8
+- HSC (12th) — 85% in Science stream
+
+Certifications: None
+
+Projects:
+- Student Management System using Flask + SQLite (college final year project)
+- Simple Portfolio Website using HTML/CSS/JavaScript
+- Calculator app in Python (Tkinter)
+
+Interests:
+- Cloud computing
+- Web development
+- AI and Machine Learning
+- Open source contributions
+
+Other:
+- Good communication skills
+- Active member of college coding club
+- Participated in 2 hackathons
